@@ -1,6 +1,11 @@
 # ReconstructionPots
 
-Reconstructing archaeological vessels with deep learning
+Reconstructing archaeological vessels with deep learning. Supplementary materials for the paper "*From fragments to digital wholeness: an AI generative approach to reconstructing archaeological vessels*"
+
+<hr>
+
+[<img src="https://github.com/lrncrd/ReconstructionPots/blob/main/imgs/batches_osts.png" width="800" text-align: center/>](image.png)
+
 
 
 ## Installation
