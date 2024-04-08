@@ -22,6 +22,6 @@ conda env create -f environment.yml
 
 ## Other materials
 
-[Google Drive]()
+[Google Drive](https://drive.google.com/drive/u/7/folders/1zHru5A9ACRbnQbdC3uaWnfUo4qOOG4-6)
 
 The link above contains the models weights (.pht), the dataset (.npz and .xlsx) and some processed images.
